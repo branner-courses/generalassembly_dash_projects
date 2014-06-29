@@ -11,7 +11,7 @@ Done 20140629.
  1. Build a small business website.
    2. Initial site: Esha's Restaurant.
  1. Build a CSS robot. "Eccentric millionaire Cotter Patrick needs a life-like companion."
-   2. The "laser eyes" in this project do not work.
+   2. **Note**: The "laser eyes" in this project do not work.
  1. Build a Madlibs game.
 
 [end]
