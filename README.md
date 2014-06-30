@@ -16,7 +16,7 @@ Done 20140629.
 ### Problems
 
  * In Esha's Restaurant, the descriptions appear before being clicked; this did not happen on the Dash site.
- * In the CSS robot, "laser eyes" in this project do not work, either here or on the Dash site.
+ * In the CSS robot, "laser eyes" in this project do not work in Firefox, either here or on the Dash site. In Chrome we get only a single red eye, not two eyes.
 
 [end]
 
